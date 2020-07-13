@@ -1,0 +1,22 @@
+git init    ----   initilising empty repo .git hidden
+git add .     --- add a files  6  -- all files 
+git add <file1> <file2>
+git commit -m "13july commit"
+git remote add origin https://github.com/vikas4cloud/batch12.git
+git push -u origin master
+
+
+
+vratnawat002@6FL7VIZT MINGW64 ~/Desktop/BJS/batch12 (master)
+$ git push -u origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (7/7), 530 bytes | 21.00 KiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0)
+To https://github.com/vikas4cloud/batch12.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+vratnawat002@6FL7VIZT MINGW64 ~/Desktop/BJS/batch12 (master)
